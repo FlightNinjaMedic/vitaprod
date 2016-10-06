@@ -16,7 +16,6 @@
 				<td width="20%"><a href="buy.html">Buy Now</a> </td>
 				<td width="20%"><a href="products.html">Products and Services</a> </td>
 				<td width="20%"><a href="yourhealth.html"></a> </td>
-				<td width="20%"><a href="about.html">About Us</a> </td>
 			</tr>
 			<tr>
 				<td colspan="3">
